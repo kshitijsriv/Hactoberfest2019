@@ -62,3 +62,6 @@ Hacktoberfest Classroom Project 2019
 > Hi, how do you do? Where did you come from, where did you go? Where did you come from, Cotton-Eye Joe?
 ---
 
+### Kshitij
+[kshitijsriv](https://github.com/kshitijsriv/)
+> Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live
